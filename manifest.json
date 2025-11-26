@@ -1,0 +1,19 @@
+{
+    "name": "Smokace Casino Login erleben & jetzt spielen | Casino Smokace",
+    "short_name": "Smokace Casino",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Smokace Casino Login f\u00fcr Deutschland: Sicher spielen & Bonus sichern | Casino Smokace bietet legale Spiele, schnelle Auszahlungen & Top-Erlebnisse",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
